@@ -1,0 +1,20 @@
+PARAMETROS DE ENTRADA 1
+F1	285 
+F2	285
+CA1	20 
+CA	20  
+PARAMETROS DE ENTRADA 2
+F1	500  
+F2	285
+CA1	30
+CA	1.25
+PARAMETROS DE ENTRADA 3
+F1	15000
+F2	339
+CA1	150
+CA	20	
+
+Rango de flujo o caudal: 0 a 10.000 L/min
+Rango de concentracion: 0<Ca<100 mol/L
+
+
